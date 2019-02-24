@@ -17,6 +17,7 @@ However, as my collaborator could not used to Erlang, I made all the code while 
 ## What I learned
 - The Erlang programming language
 - To make a distributed application using message-passing concurrency
+- To avoid race conditions in a distributed system setting
 
 ## Files worth checking out
 - The instructions: [Project description.pdf](https://github.com/sigustin/Distributed-key-value-store/blob/master/Project%20description.pdf)
