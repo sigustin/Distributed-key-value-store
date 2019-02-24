@@ -41,5 +41,5 @@ erl
 Then once the interpreter opens:
 ```erlang
 c(launcher). % Load the launcher
-launcher:run_read_file(input_files/test_input.txt). % Take command from 'test_input.txt' file
+launcher:run_read_file(input_files/test_input.txt). % Take commands from 'test_input.txt' file
 ```
