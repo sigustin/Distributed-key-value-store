@@ -12,7 +12,7 @@ This project was made in 2018 for the course LSINF2345 &ndash; Languages and Alg
 
 ## Collaborators
 This is a group project I made with Loan Sens.
-However, as my collaborator could not used to Erlang, I made all the code while he designed parts of the architecture of the project.
+However, as my collaborator could not use to Erlang, I made all the code while he designed parts of the architecture of the project.
 
 ## What I learned
 - The Erlang programming language
